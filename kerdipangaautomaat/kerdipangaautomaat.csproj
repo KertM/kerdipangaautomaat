@@ -42,8 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LogiSisse.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sisse.cs" />
+    <Compile Include="UusKonto.cs" />
+    <Compile Include="Välja.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
